@@ -3,7 +3,7 @@
 
 👽 Me chamo Marcelo Bastos!
 
-💬 Sou Administrador Público estudante de Análise e Desenvolvimento de Sistemas
+💬 Sou Administrador Público, Analista de Dados e Estudante de Análise e Desenvolvimento de Sistemas
 
 ### Minhas Tecnologias
 
