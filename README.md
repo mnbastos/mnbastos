@@ -1,16 +1,19 @@
-## Hi there 👋
+## Sejam Bem-Vindos!
 
-<!--
-**mnbastos/mnbastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👽 Me chamo Marcelo Bastos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Sou Administrador Público estudante de Análise e Desenvolvimento de Sistemas
+
+### Minhas Tecnologias
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
+<img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px">
+</p>
+-----
+
+![Marcelo Bastos GitHub stats](https://github-readme-stats.vercel.app/api?username=mnbastos&show_icons=true&theme=dracula)
+
+![Marcelo Bastos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mnbastos&layout=compact&langs_count=7&theme=dracula)
