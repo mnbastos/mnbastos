@@ -3,7 +3,7 @@
 
 👽 Me chamo Marcelo Bastos!
 
-💬 Sou Administrador Público, Analista de Dados e Estudante de Análise e Desenvolvimento de Sistemas
+💬 Sou Administrador Público, Analista de Dados e Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 ### Minhas Tecnologias
 
@@ -11,6 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="100px">
 </p>
 -----
 
